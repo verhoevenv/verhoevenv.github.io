@@ -1,0 +1,13 @@
+# Site settings
+title: Vincent Verhoeven's blog
+email: verhoevenv@gmail.com
+description: >
+  My opinions and insights on code, development practices,
+  agile methodology and other interesting aspects of life.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://verhoevenv.github.io" # the base hostname & protocol for your site
+twitter_username: verhoevenv
+github_username:  verhoevenv
+
+# Build settings
+markdown: kramdown

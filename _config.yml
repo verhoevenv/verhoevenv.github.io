@@ -1,13 +1,31 @@
-# Site settings
 title: Vincent Verhoeven's blog
 email: verhoevenv@gmail.com
 description: >
   My opinions and insights on code, development practices,
   agile methodology and other interesting aspects of life.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://verhoevenv.github.io" # the base hostname & protocol for your site
+baseurl: ""
+url: "http://verhoevenv.github.io"
 twitter_username: verhoevenv
 github_username:  verhoevenv
 
-# Build settings
 markdown: kramdown
+
+exclude:
+  - "README.md"
+  - "CHANGELOG.md"
+  - "CNAME"
+  - "Gemfile"
+  - "Gemfile.lock"
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"

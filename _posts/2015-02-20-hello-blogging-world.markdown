@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Hello Blogging World"
-date:   2015-02-20 23:26:24
-categories: meta
+tags: meta
 ---
 After reading the excellent book [Apprenticeship Patterns][AppPatt] by Hoover and Oshineye I decided I needed a blog.
 

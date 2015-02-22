@@ -5,3 +5,4 @@ tags: meta
 ---
 * Finish About page
 * Add footer to posts with name?
+* DRY on link references

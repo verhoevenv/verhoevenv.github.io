@@ -5,4 +5,5 @@ tags: meta
 ---
 * Finish About page
 * Add footer to posts with name?
-* DRY on link references
+* <del>DRY on link references (single reference page)</del>
+    * This is not possible on Github Pages

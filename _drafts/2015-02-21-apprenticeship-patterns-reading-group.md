@@ -31,31 +31,31 @@ TODO
 # Lessons learned
 ## Introduction
 
-​### Craftsmanship manifesto
+### Craftsmanship manifesto
 >As aspiring Software Craftsmen we are raising the bar of professional software development by practicing it and helping others learn the craft. Through this work we have come to value:
 Not only working software, but also well-crafted software
 Not only responding to change, but also steadily adding value
 Not only individuals and interactions, but also a community of professionals
 Not only customer collaboration, but also productive partnerships
-That is, in pursuit of the items on the left we have found the items on the right to be indispensable.​
-​Meaning of "productive partnership" vs "customer collaboration"?
+That is, in pursuit of the items on the left we have found the items on the right to be indispensable.
+Meaning of "productive partnership" vs "customer collaboration"?
 Maybe: developer is not working for a client / does not stand underneath the client. They are both at the same level, influencing each other.
 
 * There exists a community around the manifesto, where you can recruit apprentices for whatever project you are doing. You need to provide a place to sleep, etc. The apprentices will hang around you while you work, and they will learn from what you do. They will however not collaborate with you.
 * 8th light once again explains: http://blog.8thlight.com/micah-martin/2011/12/01/software-craftsmanship-manifesto-duh.html
 
 ### Values overlapping with craftsmanship
-*​ Growth mindset
-​* Adapt and change
-​* Pragmatic > dogmatic
+* Growth mindset
+* Adapt and change
+* Pragmatic > dogmatic
 * Sharing > hoarding
 * Experiment + be proven wrong
 * Internal locus of control
 * Individuals > groups
 * Inclusiveness
 * Skill-centric > process-centric
-* Related to individuals > groups!​​
-* Situated learning​
+* Related to individuals > groups!
+* Situated learning
 
 ### Stages of the crafstman
 Transitions between stages are gradual, not sudden
@@ -63,9 +63,9 @@ Transitions between stages are gradual, not sudden
 Transitions are noted by others who will give you more responsabilities. You don't notice these transistions yourself
 
 * Apprentice
-​Focused inward, intent on growing your craftsmanship, learn how to learn
-​* ​​Journeyman
-​​Keep roles of Apprentice
+Focused inward, intent on growing your craftsmanship, learn how to learn
+* Journeyman
+Keep roles of Apprentice
 + focus on the connections between practicioners
 + responsibility to mentor those around you and to communicate with the rest of the industry
 * Master
@@ -74,24 +74,24 @@ Keep roles of Journeyman
 
 
 ### Implementation in Cegeka
-​We should spread this!
+We should spread this!
 But how?
 Something at guild meeting or knowledge sharing meeting?
 Can we apply this to help people learn? Create trajectories for them on what to do?
-​But the book is not about "fixing your team" but about getting better yourself, cfr internal locus of control
+But the book is not about "fixing your team" but about getting better yourself, cfr internal locus of control
 Developer Guild discussion: is the developers guild an implementation of the "community of professionals"?
 It doesn't function as well as it should / could, because
 Craftsmanship is a mindset that just isn't there
 Joining the guild was mandatory, and people didn't like that
 It's hard to organize while being geographically seperate
-​The guild doesn't replace the old software factory feeling, which died
-​Why did it die?
+The guild doesn't replace the old software factory feeling, which died
+Why did it die?
 Isn't quality THE huge selling point of Cegeka? Why do we have to cut the costs?
 A craftsman is more expensive than an amateur, it's with plumbing as it's with development
 A journeyman should frequently change masters and projects
 We don't really do this at Cegeka, definitely not in Hasselt
 General remarks and nice quotes
-​Can you do craftsmanship without agile?
+Can you do craftsmanship without agile?
 Yes, it's about the mindset to be proud of your code
 Yes, but it will be harder
 No, the manifesto explicitely references the agile manifesto
@@ -99,7 +99,7 @@ Yes, they reinforce each other
 Yes, craftsmanship is individual and skill-based, while agile is group-level and process-based
 Comparison to other theories of skill aquisition
 ...
-​As read in Team Geek: developers usually don't have the self-esteem and courage to work in Open Source software, to show their mistakes, ... So they don't do it, hindering their growth.
+As read in Team Geek: developers usually don't have the self-esteem and courage to work in Open Source software, to show their mistakes, ... So they don't do it, hindering their growth.
 Shouldn't we evaluate craftsmanship level on individual skills, instead of as a vague general feeling?
 For example: I'm an apprentice at functional programming, journeyman at SOLID design, etc
 Parallel with martial arts: to gain a degree in for example Kendo, you need to be able to do certain moves and do an exam of it

@@ -327,45 +327,49 @@ Transitions are noted by others who will give you more responsabilities. You don
 
 ## Conclusion
 
-Software is craft, not engineering
-When someone creates a car engine that explodes, regulations and standards quickly arise.
-When someone creates a software project that goes off the rails, no-one learns anything from it.
-But we do have sets of best practices, like 'prefer composition over inheritance' or the SOLID principles
-This comes down to: software projects are non-repeatable experiments. You can't do the same project again, because the people, the tools, the setting will have changed, and because no-one invests in software that already exists. Compared with cars, which are created in factories, thousands at a time.
-There are no master craftsmen in software
-Oh snap
-What about for example Thoughtswork? They seem to generate a stream of pretty good developers. Or is that simply because we subjectively believe they are better, by the blogposts they write? We haven't studied the results...
-Most developers think they are better than average, but are worse than average
-That's because of the skewed distribution and the maybe somewhat wrong definition of average on the graph
-Everyone can call himself a programmer when they succesfully created something, even though they only used 3 skills of the 2000 that make a highly skilled programmer
+* Software is craft, not engineering
+  * When someone creates a car engine that explodes, regulations and standards quickly arise.
+  * When someone creates a software project that goes off the rails, no-one learns anything from it.
+      * But we do have sets of best practices, like 'prefer composition over inheritance' or the SOLID principles
+  * This comes down to: software projects are non-repeatable experiments. You can't do the same project again, because the people, the tools, the setting will have changed, and because no-one invests in software that already exists. Compared with cars, which are created in factories, thousands at a time.
+* There are no master craftsmen in software
+    * Oh snap
+    * What about for example Thoughtswork? They seem to generate a stream of pretty good developers. Or is that simply because we subjectively believe they are better, by the blogposts they write? We haven't studied the results...
+* Most developers think they are better than average, but are worse than average
+    * That's because of the skewed distribution and the maybe somewhat wrong definition of average on the graph
+    * Everyone can call himself a programmer when they succesfully created something, even though they only used 3 skills of the 2000 that make a highly skilled programmer
 
 
 # Conclusion about the entire book
-It inspired us to take action. One of us started a blog, someone else connected to the community on Twitter, someone else started a Breakable Toy and is getting colleagues to collaborate on it...
-It changes the way we think
-Quote: "another book, you just put away after you're finished, happy you learned something. This sticks and keeps going in your head"
-It even influenced the thought process of one of our developers while hiring, with more focus on 'how much does this candidate seem interested in learning and improving'
-What next?
+* It inspired us to take action. One of us started a blog, someone else connected to the community on Twitter, someone else started a Breakable Toy and is getting colleagues to collaborate on it...
+* It changes the way we think
+    * Quote: "another book, you just put away after you're finished, happy you learned something. This sticks and keeps going in your head"
+    * It even influenced the thought process of one of our developers while hiring, with more focus on 'how much does this candidate seem interested in learning and improving'
+
+
+# What next?
 We don't want to force anyone to participate, and we don't want to limit our audience and community to Cegeka people. So we should probably document our path and invite others along the way on media other than the internal Cegeka Insight portal. This seems like a more organic way to stay in touch. However, we shouldn't neglect to share the relevant things on Insight and through word of mouth. To get you started:
 
-Cegeka groups
-Goodreads: https://www.goodreads.com/group/show/155376-cegeka-software-craftsmanship
-Vincent
-https://twitter.com/verhoevenv
-https://github.com/verhoevenv
-Tim
-https://twitter.com/timschraepen
-https://github.com/sch3lp/
-Especially https://github.com/Sch3lp/FiAngulartje
-http://sch3lp.github.io/
-Frans
-https://twitter.com/fransguelinckx
-http://www.brogrammer.be/
-...
-Please add to the above list, let's create a community of software craftspeople!
+* Cegeka groups
+    * Goodreads: <https://www.goodreads.com/group/show/155376-cegeka-software-craftsmanship>
+* Vincent
+    * <https://twitter.com/verhoevenv>
+    * <https://github.com/verhoevenv>
+* Tim
+    * <https://twitter.com/timschraepen>
+    * <https://github.com/sch3lp/>
+        * Especially <https://github.com/Sch3lp/FiAngulartje>
+    * <http://sch3lp.github.io/>
+* Frans
+    * <https://twitter.com/fransguelinckx>
+    * <http://www.brogrammer.be/>
+* ...
+Please add to the above list[^pullrequest], let's create a community of software craftspeople!
+
 
 [AppPatt]: http://chimera.labs.oreilly.com/books/1234000001813/index.html
 [Cegeka]: http://www.cegeka.be
 
 [^weasuring]: A silly translation of *meten is weten*, to measure is to know
 [^intranet]: Link to intranet site removed
+[^pullrequest]: Internally this is a wiki page, but on this blog you can always send [pull requests](https://github.com/verhoevenv/verhoevenv.github.io)!

@@ -218,50 +218,52 @@ Transitions are noted by others who will give you more responsabilities. You don
 ## Perpetual Learning
 
 ### Expand Your Bandwith
-Some online resources:
-Twitter: https://twitter.com/tojans, ... (please add!)
-http://www.infoq.com/
-http://www.reddit.com/r/programming/
-Aggregate it in https://feedly.com/ (since Google Reader is dead)
-...
-Local user groups: meetup.com! Join DDDBelgium and Software Craftsmanship Belgium! Start your own!
-There's no time to do this while on the job.
-Boo: this forces you to spend your own time on it
-And who has the time to keep up with all the information ("I had to scale down my intake for the sake of my sanity and my marriage")
-Yay: this keeps you from drowning in the information sea
-We will collectively write the authors after finishing the book
+* Some online resources:
+    * Twitter: <https://twitter.com/tojans>, <https://twitter.com/talboomerik>, <https://twitter.com/martinfowler>, ... (please add!)
+    * <http://www.infoq.com/>
+    * <http://www.reddit.com/r/programming/>
+    * Aggregate it in <https://feedly.com/> (since Google Reader is dead)
+    * ...
+* Local user groups: [meetup.com](http://www.meetup.com/)! Join [DDDBelgium](http://www.meetup.com/dddbelgium/) and [Software Craftsmanship Belgium](http://www.meetup.com/Belgian-Software-Craftsmanship-Guild/)! Start your own!
+* There's no time to do this while on the job.
+    * Boo: this forces you to spend your own time on it
+        * And who has the time to keep up with all the information ("I had to scale down my intake for the sake of my sanity and my marriage")
+    * Yay: this keeps you from drowning in the information sea
+* We will collectively write the authors after finishing the book
 
 ### Practice, practice, practice
-Code retreats, katas, ..
-The Real Guys seem to do this ALL the time. Even if they have only half an hour of downtime during a lecture, they are practicing: "I [Uncle Bob] remember sitting down with Kent Beck one afternoon to write this algorithm just for fun. I figured it would take us 10-15 minutes. He and I paired on it, test first, for 30 minutes, and got nowhere. Eventually we gave up because we were teaching a class together and actually had to spend time with the students." (from http://blog.8thlight.com/uncle-bob/2012/04/20/Why-Is-Estimating-So-Hard.html)
-If you possess Etudes for Programmers, everyone will be jealous
-Some online resources:
-...
+* Code retreats, katas, ..
+* The Real Guys seem to do this ALL the time. Even if they have only half an hour of downtime during a lecture, they are practicing:
+
+    > I [Uncle Bob] remember sitting down with Kent Beck one afternoon to write this algorithm just for fun. I figured it would take us 10-15 minutes. He and I paired on it, test first, for 30 minutes, and got nowhere. Eventually we gave up because we were teaching a class together and actually had to spend time with the students. (from <http://blog.8thlight.com/uncle-bob/2012/04/20/Why-Is-Estimating-So-Hard.html>)
+* If you possess Etudes for Programmers, everyone will be jealous
+* Some online resources:
+    * ...
 
 ### Breakable Toys
-You'll learn different things from a one-time spike vs a toy you can keep working on (see also Concrete Skills)
+* You'll learn different things from a one-time spike vs a toy you can keep working on (see also Concrete Skills)
 
 ### Use the Source
-An unexpectedly good way to pick up programming idioms in an unfamiliar (or even more familiar) language
+* An unexpectedly good way to pick up programming idioms in an unfamiliar (or even more familiar) language
 
 ### Reflect As You Work
-Personal Practice Map looks kind of intense and verbose just for reflection. Is this the right action?
-Skill != experience
+* Personal Practice Map looks kind of intense and verbose just for reflection. Is this the right action?
+* Skill != experience
 
 ### Record What You Learn
-Is about yourself
+* Is about yourself
 
 ### Share What You Learn
-Is about the community (and in giving, you will also receive, of course)
-You can solve both patterns with a single tool: a public blog
-Except for things you are not allowed to share to the public. This is especially risky with proposals still in the pipeline.
+* Is about the community (and in giving, you will also receive, of course)
+* You can solve both patterns with a single tool: a public blog
+    * Except for things you are not allowed to share to the public. This is especially risky with proposals still in the pipeline.
 
 ### Create Feedback Loops
-Objectivity is important here
-Measuring is weasuring!
+* Objectivity is important here
+* Measuring is weasuring![^weasuring]
 
 ### Learn How You Fail
-If you don't fail, you're either not doing anything or not noticing your failings. Both are bad.
+* If you don't fail, you're either not doing anything or not noticing your failings. Both are bad.
 
 
 ## Construct Your Curriculum
@@ -363,3 +365,5 @@ Please add to the above list, let's create a community of software craftspeople!
 
 [AppPatt]: http://chimera.labs.oreilly.com/books/1234000001813/index.html
 [Cegeka]: http://www.cegeka.be
+
+[^weasuring]: A silly translation of *meten is weten*, to measure is to know

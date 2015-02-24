@@ -189,30 +189,30 @@ Transitions are noted by others who will give you more responsabilities. You don
 ## Accurate Self-Assessment
 
 ### Be the Worst
-Being best or worst is multi-dimensional. You can be better at some things, but still be learning a lot about other things.
-As long as you are learning enough to your liking, this pattern doesn't apply.
-You cannot stay the worst forever in the same team! That will just annoy the team.
-This might be an issue in Cegeka. What if there aren't any opportunities to move to a different team, and you are the best for the last past 10 years?
-You will need to learn different ways, probably not as efficient
-You might be past the stage of apprenticeship
+* Being best or worst is multi-dimensional. You can be better at some things, but still be learning a lot about other things.
+    * As long as you are learning enough to your liking, this pattern doesn't apply.
+* You cannot stay the worst forever in the same team! That will just annoy the team.
+* This might be an issue in Cegeka. What if there aren't any opportunities to move to a different team, and you are the best for the last past 10 years?
+    * You will need to learn different ways, probably not as efficient
+    * You might be past the stage of apprenticeship
 
 ### Find Mentors
-Contrast with Kindred Spirits: this is more one-on-one, directly for your own gain, with someone who is already farther on the path
-Danger in blindly accepting mentors (especially when Rubbing Elbows): what if you learn the wrong things? Keep learning from different sources!
+* Contrast with Kindred Spirits: this is more one-on-one, directly for your own gain, with someone who is already farther on the path
+* Danger in blindly accepting mentors (especially when Rubbing Elbows): what if you learn the wrong things? Keep learning from different sources!
 
 ### Kindred Spirits
-Constrast with Find Mentors: this is more about the culture around you, trying to achieve the same goal while at the same stage on the path
-User Groups are plenty on meetup.com
-The litmus test to defend against group-think: does the community accept and experiment with new ideas, or are they rejected without thought?
+* Constrast with Find Mentors: this is more about the culture around you, trying to achieve the same goal while at the same stage on the path
+* User Groups are plenty on meetup.com
+* The litmus test to defend against group-think: does the community accept and experiment with new ideas, or are they rejected without thought?
 
 ### Rubbing Elbows
-We do this often
-Rubbing Elbows accelerates learning, so might also accelerate learning bad habits. Don't rely on pair programming alone.
+* We do this often
+* Rubbing Elbows accelerates learning, so might also accelerate learning bad habits. Don't rely on pair programming alone.
 
 ### Sweep the Floor
-A good way to learn different parts of the team
-Don't keep doing it
-But a good team should not allow one single person to keep doing this
+* A good way to learn different parts of the team
+* Don't keep doing it
+    * But a good team should not allow one single person to keep doing this
 
 
 ## Perpetual Learning

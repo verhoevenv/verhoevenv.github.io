@@ -12,3 +12,8 @@
   @extend .table;
   @extend .table-bordered;
 }
+
+.footnotes {
+  margin-top: $space-md;
+  font-size: $font-size-small;
+}

@@ -3,18 +3,16 @@ layout: post
 title:  "Notes from our reading of Apprenticeship Patterns"
 tags: book craftsmanship readinggroup
 ---
-At [Cegeka][Cegeka], we believe in continuous learning, and we regularly organize reading groups as a simple and effective way to gain knowledge. The last reading group I participated in, and the one that inspired this blog, was [Apprenticeship Patterns][AppPatt]. We kept extensive notes during our reading and discussions. You can find these below, with minimal editing. Please comment!
+*At [Cegeka][Cegeka], we believe in continuous learning, and we regularly organize reading groups as a simple and effective way to gain knowledge. The last reading group I participated in, and the one that inspired this blog, was [Apprenticeship Patterns][AppPatt]. We kept extensive notes during our reading and discussions. You can find these below, copy-pasted from our internal company-wide wiki, with minimal editing. As you will see, not all discussions are complete, feel free to comment! Also, especially at the start, many notes are very short. If you don't understand something, go ahead and ask!*
 
-
-TODO
-
-* markdownify
+*Please note that the [entire book can be found online][AppPatt]. Pretty useful if you want to see what we're talking about!*
 
 
 # Meetings
 
 |---------------------------
 | Date | Location | Content |
+|---------------------------
 | 30/09/2014, 15h | Leuven | Introduction |
 | 01/10/2014, 15h | Lync | Introduction |
 | 14/10/2014, 16h | Lync | Chapter 2 - Emptying the Cup |
@@ -364,6 +362,8 @@ We don't want to force anyone to participate, and we don't want to limit our aud
     * <https://twitter.com/fransguelinckx>
     * <http://www.brogrammer.be/>
 * ...
+
+
 Please add to the above list[^pullrequest], let's create a community of software craftspeople!
 
 

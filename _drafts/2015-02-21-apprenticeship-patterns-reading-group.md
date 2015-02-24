@@ -269,59 +269,60 @@ Transitions are noted by others who will give you more responsabilities. You don
 ## Construct Your Curriculum
 
 ### Reading List
-Implementation of this pattern for books: goodreads
-For blog posts etc you can use a bookmarking tool like Delicious
-In the software factory Leuven, we give each new developer 3 books to read when he starts
-These are: Refactoring, Head First Design Patterns and Domain Driven Design
-This practice doesn't seem to be followed as closely as it was a few years ago
-Should we actually make people do this? Can't they learn on their own?
-Are these the right books?
-What about Clean Code, Effective Java?
-What about methodology books: Extreme Programming, Lean startup?
-What about learning to learn: this very book, Apprenticeship Patterns?
-Shouldn't these be project-specific?
-Very important in reading groups: have someone with experience to guide and help the group. That person will also learn from explaining!
-How can we help each other with this?
-Links to your goodreads profile might be a good start!
-This is probably a more natural and more sustainable way than keeping lists on some forgotten corner of a project wiki
-Although such a list can be an interesting starting point!
-Read Constantly
-What is next for us?
-A CQRS Journey
-Head First Design Patterns
-Domain Driven Design
-Working Effectively with Legacy Code
-Interesting application of this pattern: don't check Facebook for the 35th time, start reading blogs or books. Use you Reading List!
-Another interesting application of this pattern: keep books on you smartphone. You usually have this with you when you have some time left.
-Hooray for books that are available online (like Apprenticeship Patterns)
+* Implementation of this pattern for books: [goodreads](http://www.goodreads.com/)
+* For blog posts etc you can use a bookmarking tool like [Delicious](https://delicious.com/)
+* In the software factory Leuven, we give each new developer 3 books to read when he starts
+    * These are: Refactoring, Head First Design Patterns and Domain Driven Design
+    * This practice doesn't seem to be followed as closely as it was a few years ago
+    * Should we actually make people do this? Can't they learn on their own?
+    * Are these the right books?
+        * What about Clean Code, Effective Java?
+        * What about methodology books: Extreme Programming, Lean startup?
+        * What about learning to learn: this very book, Apprenticeship Patterns?
+    * Shouldn't these be project-specific?
+* Very important in reading groups: have someone with experience to guide and help the group. That person will also learn from explaining!
+* How can we help each other with this?
+    * Links to your goodreads profile might be a good start!
+    * This is probably a more natural and more sustainable way than keeping lists on some forgotten corner of a project wiki
+    * Although such a list[^intranet] can be an interesting starting point!
+
+### Read Constantly
+* What is next for us?
+    * A CQRS Journey
+    * Head First Design Patterns
+    * Domain Driven Design
+    * Working Effectively with Legacy Code
+* Interesting application of this pattern: don't check Facebook for the 35th time, start reading blogs or books. Use you Reading List!
+* Another interesting application of this pattern: keep books on you smartphone. You usually have this with you when you have some time left.
+    * Hooray for books that are available online (like Apprenticeship Patterns)
 
 ### Study The Classics
-There is more/different worth in books than in articles/blogs
-Books are written to last for a while, books are proofread, books need an audience, books usually cite their sources
-Blog posts are very in-the-moment, written by one person
-What are classics?
-Those books that get cited a lot in other books
-It's like PageRank for books
-BookRanks
+* There is more/different worth in books than in articles/blogs
+    * Books are written to last for a while, books are proofread, books need an audience, books usually cite their sources
+    * Blog posts are very in-the-moment, written by one person
+* What are classics?
+    * Those books that get cited a lot in other books
+        * It's like PageRank for books
+            * BookRanks
 
 ### Dig Deeper
-As opposed to "I don't know how, but it works"
-How far do you have to go?
-Deep enough, be pragmatic
-Until you understand enough for the current context. Don't let yourself be stopped because you have to search in library code, specifications, ...
-You might want to go just a bit further than your current context, it's useful to have some more notions about what you're doing in order to minimize the chances of running into trouble by something you completely didn't expect
-Interestingly, closed source third party tools can prevent you from going deeper
-Possibly one of the more important reasons to choose open source libraries and tools!
-This is the number one reason why you're never done with learning. You can always dig deeper!
+* As opposed to "I don't know how, but it works"
+    * How far do you have to go?
+    * Deep enough, be pragmatic
+    * Until you understand enough for the current context. Don't let yourself be stopped because you have to search in library code, specifications, ...
+    * You might want to go just a bit further than your current context, it's useful to have some more notions about what you're doing in order to minimize the chances of running into trouble by something you completely didn't expect
+* Interestingly, closed source third party tools can prevent you from going deeper
+    * Possibly one of the more important reasons to choose open source libraries and tools!
+* This is the number one reason why you're never done with learning. You can always dig deeper!
 
 ### Familiar Tools
-Mostly, be aware of them and how they are evolving in the bigger picture
-Newer is not always better
-But the only way to know if something new is something better is to experiment with it. For each blog post saying it is better, there will eventually be two that say it isn't.
-To learn new tools, you might want to experiment with a Breakable Toy
-Be aware of how many new tools you introduce vs how many familiar tools you use. You can quickly lose a lot of time on unexpected problems if you learn too many things at the same time
-e.g. trying to learn angular via a Yeoman setup will also introduce you to grunt, minification, js test runners and probably the legend of the Holy Grail somewhere
-You're still learning, but depending on your goal it might not be the best investment of your time
+* Mostly, be aware of them and how they are evolving in the bigger picture
+* Newer is not always better
+    * But the only way to know if something new is something better is to experiment with it. For each blog post saying it is better, there will eventually be two that say it isn't.
+* To learn new tools, you might want to experiment with a Breakable Toy
+    * Be aware of how many new tools you introduce vs how many familiar tools you use. You can quickly lose a lot of time on unexpected problems if you learn too many things at the same time
+        * e.g. trying to learn angular via a Yeoman setup will also introduce you to grunt, minification, js test runners and probably the legend of the Holy Grail somewhere
+            * You're still learning, but depending on your goal it might not be the best investment of your time
 
 
 ## Conclusion
@@ -367,3 +368,4 @@ Please add to the above list, let's create a community of software craftspeople!
 [Cegeka]: http://www.cegeka.be
 
 [^weasuring]: A silly translation of *meten is weten*, to measure is to know
+[^intranet]: Link to intranet site removed

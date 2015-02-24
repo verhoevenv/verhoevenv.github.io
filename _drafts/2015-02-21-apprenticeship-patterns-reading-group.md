@@ -156,34 +156,35 @@ Transitions are noted by others who will give you more responsabilities. You don
 ## Walking the Long Road
 
 ### The Long Road
-This is the pattern that keeps coming back in the others
-Remember: the journey never ends!
+* This is the pattern that keeps coming back in the others
+* Remember: the journey never ends!
 
 ### Craft over Art
-We seem to do this pretty okay at Cegeka
-Pairing helps
+* We seem to do this pretty okay at Cegeka
+* Pairing helps
 
 ### Sustainable Motivations
-How about motivating others?
-See also Unleash Your Enthousiasm
-How about motivation for side projects? It's really hard to keep working on something just for yourself, if it only improves marginally on existing tools
-Hackerspaces! User groups! You have to search for an audience to motivate you.
+* How about motivating others?
+    * See also Unleash Your Enthousiasm
+* How about motivation for side projects? It's really hard to keep working on something just for yourself, if it only improves marginally on existing tools
+    * Hackerspaces! User groups! You have to search for an audience to motivate you.
 
 ### Nurture Your Passion
-Don't let your work kill you
+* Don't let your work kill you
 
 ### Draw Your Own Map
-We've seen a few people leave Cegeka to follow their own map. One employer cannot provide all paths.
+* We've seen a few people leave Cegeka to follow their own map. One employer cannot provide all paths.
 
 ### Use Your Title
-Isn't it "Don't use your title"?
-It seems to be "use your title to assess the company you work for"
+* Isn't it "Don't use your title"?
+* It seems to be "use your title to assess the company you work for"
 
 ### Stay in the Trenches
-...
+* ...
 
 ### A Different Road
-Leads to interesting stories!
+* Leads to interesting stories!
+
 
 ## Accurate Self-Assessment
 

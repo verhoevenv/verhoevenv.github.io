@@ -118,39 +118,40 @@ Transitions are noted by others who will give you more responsabilities. You don
 
 ### Your First Language
 * Are we past this point?
-* Some are, some aren't
+    * Some are, some aren't
 * Very important: mentorship! When you are alone, you might be able to build something, but you only learn the language when someone else shows you the idioms, corrects your mistakes, ...
 * Wikipedia-links to idioms
-* Muenchian method (XSLT)
-* Schwartzian transform (originally Perl)
-* Duff's device (C)
-* Wikipedia article about programming idioms
+    * [Muenchian method](http://en.wikipedia.org/wiki/Muenchian_grouping) (XSLT)
+    * [Schwartzian transform](http://en.wikipedia.org/wiki/Schwartzian_transform) (originally Perl)
+    * [Duff's device](http://en.wikipedia.org/wiki/Duff%27s_device) (C)
+    * [Wikipedia article about programming idioms](http://en.wikipedia.org/wiki/Programming_idiom)
 
 ### The White Belt
-Rather hard to practically use
-It's about keeping the right mindset, even a master might need to act as an apprentice again if he enters a different context
+* Rather hard to practically use
+* It's about keeping the right mindset, even a master might need to act as an apprentice again if he enters a different context
 
 ### Unleash Your Enthusiasm
-Teams with a junior/senior mix outperform teams with only seniors.
-This pattern also seems useful in reverse: explaining things to apprentices helps your understanding of a problem
+* Teams with a junior/senior mix outperform teams with only seniors.
+* This pattern also seems useful in reverse: explaining things to apprentices helps your understanding of a problem
 
 ### Concrete Skills
-Only seems relevant when you are trying to get started in software development, and you don't have anyone else around with the skills you want to learn
+* Only seems relevant when you are trying to get started in software development, and you don't have anyone else around with the skills you want to learn
 
 ### Expose Your Ignorance
-Be honest
-Show that you have the learning mindset, and also show that you believe this is the best mindset
+* Be honest
+* Show that you have the learning mindset, and also show that you believe this is the best mindset
 
 ### Confront Your Ignorance
-Very close to Expose Your Ignorance
+* Very close to Expose Your Ignorance
 
 ### The Deep End
-Within Cegeka: coaching is important to help push developers to the deep end, and to give them feedback about how they are doing
-Measure your progress: what projects have you done? Are you stagnating?
+* Within Cegeka: coaching is important to help push developers to the deep end, and to give them feedback about how they are doing
+* Measure your progress: what projects have you done? Are you stagnating?
 
 ### Retreat into Competence
-We kind of do this sometimes to keep our sanity
-Maybe it's also about benchmarking? How well can I do problem X, compared to 5 years ago?
+* We kind of do this sometimes to keep our sanity
+* Maybe it's also about benchmarking? How well can I do problem X, compared to 5 years ago?
+
 
 ## Walking the Long Road
 
@@ -212,8 +213,8 @@ A good way to learn different parts of the team
 Don't keep doing it
 But a good team should not allow one single person to keep doing this
 
-## Perpetual Learning
 
+## Perpetual Learning
 
 ### Expand Your Bandwith
 Some online resources:
@@ -260,6 +261,7 @@ Measuring is weasuring!
 
 ### Learn How You Fail
 If you don't fail, you're either not doing anything or not noticing your failings. Both are bad.
+
 
 ## Construct Your Curriculum
 
@@ -318,6 +320,7 @@ Be aware of how many new tools you introduce vs how many familiar tools you use.
 e.g. trying to learn angular via a Yeoman setup will also introduce you to grunt, minification, js test runners and probably the legend of the Holy Grail somewhere
 You're still learning, but depending on your goal it might not be the best investment of your time
 
+
 ## Conclusion
 
 Software is craft, not engineering
@@ -331,6 +334,7 @@ What about for example Thoughtswork? They seem to generate a stream of pretty go
 Most developers think they are better than average, but are worse than average
 That's because of the skewed distribution and the maybe somewhat wrong definition of average on the graph
 Everyone can call himself a programmer when they succesfully created something, even though they only used 3 skills of the 2000 that make a highly skilled programmer
+
 
 # Conclusion about the entire book
 It inspired us to take action. One of us started a blog, someone else connected to the community on Twitter, someone else started a Breakable Toy and is getting colleagues to collaborate on it...

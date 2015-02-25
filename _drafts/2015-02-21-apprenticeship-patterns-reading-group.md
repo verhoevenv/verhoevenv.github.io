@@ -2,6 +2,7 @@
 layout: post
 title:  "Notes from our reading of Apprenticeship Patterns"
 tags: book craftsmanship readinggroup
+excerpt: <em>In which a whole bunch of obvious remarks are made and many unanswarable questions are asked.</em>
 ---
 *At [Cegeka][Cegeka], we believe in continuous learning, and we regularly organize reading groups as a simple and effective way to gain knowledge. The last reading group I participated in, and the one that inspired this blog, was [Apprenticeship Patterns][AppPatt]. We kept extensive notes during our reading and discussions. You can find these below, copy-pasted from our internal company-wide wiki, with minimal editing. As you will see, not all discussions are complete, feel free to comment! Also, especially at the start, many notes are very short. If you don't understand something, go ahead and ask!*
 

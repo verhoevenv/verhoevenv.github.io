@@ -27,15 +27,15 @@ In essence, the idea is to define a far-away vision to give you a direction of i
 So let's attempt to put this in a retro format. The goal of this retro is *not* to define SMART actions, but to get to this vision, which should help future retros gain more direction. The entire retro took us about 90 minutes.
 
 # Set the stage: message to the past
-If you would get the chance to send at most five words back in time to the team a few years ago, what would you say?
+If you would get the chance to send five words back in time, directed at the team a few years ago, what would you say?
 
 ![timetravel]{:.center-block}
 
-I'm a fan of starting the retro with a little side activity, if possible with some humor, to get people to think creatively and to set the general mood of the retro. My hope was that, by thinking about the project a few years back, the team members would be ready to think on a bigger scale into the future.
+I'm a fan of starting the retro with a little side activity, if possible with some humor, to get people to think creatively and to set the general mood of the retro. My hope was that, by thinking about the project a few years back, the team members would be ready to think on a bigger scale about the future.
 
 Some excellent responses on this one. A few quotes from memory:
 
-* Do (feature X) right immediately
+* Implement (feature X) properly, without shortcuts
 * Demand specs from (external party Y)
 * Invest in GoPro stock!
 * The project is still running
@@ -74,12 +74,12 @@ After the groups had enough time to come to consensus, **each group shortly pres
 
 ![result]{:.center-block}
 
-Once we had all the elements of the vision, I gave some context about what we had been doing by quickly explaining the improvement kata. I mostly did this because I wanted at least a few people of the team to think about how to apply the vision to our future work, and sketching the theoretical background for that seemed necessary.
+Once we had all the elements of the vision, I gave some context about what we had been doing by quickly explaining the improvement kata. I mostly did this because I wanted other people of the team to think about how to apply the vision to our future work, and sketching the theoretical background for that seemed useful.
 
 # And then, the minions went into uprising
 Or rather, the team gave feedback. :) Great, of course, it means people listen and care for the things I was trying to do.
 
-Not everyone was agreeing whether the procedure we followed led to a vision that was carried by the team. It took a bit of talking to agree on how to check this, but in the end we decided on a two-part anonymous vote. First a number between 1 and 5 for their satisfaction with the vision, which doubled as vote for retro-of-the-retro. Second (and optionally) the one part of the vision they identified least with.
+Not everyone was agreeing whether the procedure we followed led to a vision that was carried by the team. It took a bit of talking to agree on how to check this, but in the end we decided on a two-part anonymous vote. First a number between 1 and 5 for their satisfaction with the vision, which doubled as vote for retro-of-the-retro. Second (and optional) the one part of the vision they identified least with.
 
 I tallied the votes after the retro, and we came to the conclusion that **the vision was mostly supported by the entire team**. Hooray!
 

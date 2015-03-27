@@ -2,7 +2,7 @@
 layout: post
 title:  "The vision: Improvement Kata as a retro format"
 tags: retrospective
-teaser-pic: /assets/2015-03-14-improvement-kata-retro/random_movement.jpg
+teaser-pic: /assets/2015-03-27-improvement-kata-retro/random_movement.jpg
 ---
 If you are part of a scrum team, you hopefully know about retrospectives. At the end of each sprint, the team looks back, and thinks about how to improve their way of working. It's an invaluable feedback loop, and even if you are not doing scrum, you should think about incorporating this practice in one way or another. However, if you are part of a long-running scrum team, you maybe noticed that at some point the retrospectives become less valuable. The same topics come up, but the team cannot define an action to fix them. Maybe actions contradict earlier decisions. Or actions are defined, but not executed - the actions are too hard, or not truly perceived as useful. What can we do?
 
@@ -88,10 +88,10 @@ Personally, I fully support the vision we created, and I'll often refer to it wh
 #Credit where credit is due
 This retro was inspired by [a talk](http://www.slideshare.net/noostvog/improv-kata-retrospectives) from [Nick Oostvogels](http://www.twitter.com/nickoostvogels) I attended during the Agile Tour Brussels conference. He also has [a blog post on the theme](http://skycoach.be/2012/10/29/vision-based-retrospectives-avoiding-conflicting-improvements/). Thanks for the inspiration, Nick!
 
-[retro_fatigue]: /assets/2015-03-14-improvement-kata-retro/retro_fatigue.png
-[random_movement]: /assets/2015-03-14-improvement-kata-retro/random_movement.jpg
-[timetravel]: /assets/2015-03-14-improvement-kata-retro/timetravel.png
-[brainstorm]: /assets/2015-03-14-improvement-kata-retro/brainstorm.png
-[discussion]: /assets/2015-03-14-improvement-kata-retro/discussion.jpg
-[result]: /assets/2015-03-14-improvement-kata-retro/result.jpg
-[feedback]: /assets/2015-03-14-improvement-kata-retro/feedback.jpg
+[retro_fatigue]: /assets/2015-03-27-improvement-kata-retro/retro_fatigue.png
+[random_movement]: /assets/2015-03-27-improvement-kata-retro/random_movement.jpg
+[timetravel]: /assets/2015-03-27-improvement-kata-retro/timetravel.png
+[brainstorm]: /assets/2015-03-27-improvement-kata-retro/brainstorm.png
+[discussion]: /assets/2015-03-27-improvement-kata-retro/discussion.jpg
+[result]: /assets/2015-03-27-improvement-kata-retro/result.jpg
+[feedback]: /assets/2015-03-27-improvement-kata-retro/feedback.jpg

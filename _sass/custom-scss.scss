@@ -17,3 +17,8 @@
   margin-top: $space-md;
   font-size: $font-size-small;
 }
+
+img.teaser-pic {
+  width: 250px;
+  @extend .pull-right;
+}

@@ -9,6 +9,9 @@
   {% include post-header-home.html %}
 </div>
 <div class="post-excerpt-home">
+  {% if post.teaser-pic %}
+    <img class="teaser-pic" src="{{ post.teaser-pic | prepend:site.baseurl }}">
+  {% endif %}
   {{post.excerpt}}
   {% capture pe %}{{post.excerpt | strip_newlines}}{% endcapture %}
   {% capture pc %}{{post.content | strip_newlines}}{% endcapture %}

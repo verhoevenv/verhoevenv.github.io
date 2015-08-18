@@ -68,9 +68,10 @@ System.out.println(strings);
 
 ExecutorService pool = Executors.newCachedThreadPool();
 pool.submit(new AnswerCalculator());
+{% endhighlight %}
 
-
-//The definitions below could be moved to other files
+{% highlight java %}
+//Java 7 - other files
 private static Comparator<String> byLengthReversed() {
     return new ReverseLengthComparator();
 }
@@ -353,8 +354,11 @@ private static SortedSet<Integer> createSet() {
             .filter(greaterThan5())
             .collect(AdditionalCollectors.<Integer>toSortedSet());
 }
+{% endhighlight %}
 
-private static class AdditionalCollectors {
+{% highlight java %}
+//StreamSupport ctd - other file
+public static class AdditionalCollectors {
     private static <T> Supplier<SortedSet<T>> sortedSetSupplier() {
 
         return new Supplier<SortedSet<T>>() {
@@ -365,7 +369,7 @@ private static class AdditionalCollectors {
         };
     }
 
-    private static <T> Collector<? super T, ?, SortedSet<T>> toSortedSet() {
+    public static <T> Collector<? super T, ?, SortedSet<T>> toSortedSet() {
         return Collectors.toCollection(AdditionalCollectors.<T>sortedSetSupplier());
     }
 }

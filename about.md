@@ -10,6 +10,7 @@ You can find me and interact with me on the Internet! I usually go by the `verho
 
 * E-mail: <verhoevenv@gmail.com>
 * Twitter: [@verhoevenv](https://twitter.com/verhoevenv)
+* LinkedIn: [Vincent Verhoeven](https://www.linkedin.com/in/verhoevenv)
 * Github: [verhoevenv](https://github.com/verhoevenv)
 * Steam[^steam]: [verhoevenv / Amarth](http://steamcommunity.com/id/verhoevenv)
 * goodreads: [Vincent Verhoeven](https://www.goodreads.com/user/show/17579541-vincent-verhoeven)

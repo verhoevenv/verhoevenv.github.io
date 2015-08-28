@@ -138,6 +138,10 @@ private String sparkles() {
 }
 {% endhighlight %}
 
+Note that, because the generic type cannot be inferred in Java 7, the method call must be annotated with the type. The syntax for this makes it mandatory to add the class name in front of the method.
+
+In Java 8 however the generic type can be inferred. This opens the option to statically import the method name, which can lead to more readable code, as seen above.
+
 ###Default interface methods
 Java 8 adds the ability to define default methods on interfaces.
 {% highlight java %}

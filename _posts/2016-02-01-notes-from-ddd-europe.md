@@ -103,5 +103,5 @@ Greg talks about the good, the bad and the future of 10 years of event sourcing.
 
 I don't have any event sourcing experience (sadface), so I hadn't encountered many of the things Greg talks about. When he explains his points, it all seems reasonable, but I can't really give any more insightful comments on this talk.
 
-#Full disclosure / marketing note
+# Full disclosure / marketing note
 _DDD Europe 2016 was in part made possible due to the sponsorship of Cegeka, my employer. Cegeka also payed for my ticket, as well as the tickets of about 10 other developers. If you would like to work for an employer that invests in its developers and the general software community, [Cegeka is always looking for passionate developers, analysts and coaches](http://www.cegeka.com/en/jobs)._

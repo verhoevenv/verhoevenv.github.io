@@ -103,5 +103,16 @@ Greg talks about the good, the bad and the future of 10 years of event sourcing.
 
 I don't have any event sourcing experience (sadface), so I hadn't encountered many of the things Greg talks about. When he explains his points, it all seems reasonable, but I can't really give any more insightful comments on this talk.
 
+# The afterglow
+_Truism alert!_ We get so used to doing the things we do everyday without questioning the bigger picture. And I think this is true even if you know about this phenomenon. Even if you actively try to fight it. There will always be things we don't see, ways of thinking we don't know, practices we keep doing without thinking. Any experience that shakes those habits up and causes reflection is bound to be good in the long run.
+
+Cynefin, physics of software, DCI. A conference that raises questions you didn't even know you had is a great conference. And DDD Europe definitely did that for me.
+
+On the other hand, these questions also provide a form of clarity. A realization of the _boundaries_ of DDD, the insight that DDD is a tool, not a cult. With that, the realization that _I_ should wield it as a tool, not spread it as a cult.
+
+Thanks to the organization of DDD Europe for making all of this possible, and thanks to everyone that was there for actually making all of this happen.
+
+I hope to see you again next year.
+
 # Full disclosure / marketing note
 _DDD Europe 2016 was in part made possible due to the sponsorship of Cegeka, my employer. Cegeka also payed for my ticket, as well as the tickets of about 10 other developers. If you would like to work for an employer that invests in its developers and the general software community, [Cegeka is always looking for passionate developers, analysts and coaches](http://www.cegeka.com/en/jobs)._

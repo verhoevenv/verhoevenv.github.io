@@ -5,10 +5,9 @@ tags: ddd community conference notes
 ---
 The year 2016 started off great by having a [superb Domain Driven Design conference](http://dddeurope.com/2016/) right here in Belgium, bringing together some big names of the scene (like Eric Evans, Vaughn Vernon, Alberto Brandolini, Greg Young, ...), a lot of really smart people, and me. These are my thoughts and notes on the talks I watched. I mostly wanted to write these down to be able to get back to them later. But maybe you can also learn something from this. Maybe it can serve as a conversation starter. So feel free to talk to me about these notes, or to correct me where I'm wrong!
 
-I'll add videos when they appear online. While there are no videos in here, this will be one gigantic wall of text. Good luck.
+I'll add videos when they appear online. You can find videos for the talks I didn't attend on [the DDD Europe Youtube page](https://www.youtube.com/channel/UC3PGn-hQdbtRiqxZK9XBGqQ).
 
 # Opening keynote (Eric Evans)
-
 <iframe width="492" height="277" src="https://www.youtube.com/embed/dnUFEg68ESM" frameborder="0" allowfullscreen></iframe>
 
 Eric Evans gave us a view about his current thoughts on DDD, 12 years after [The Book](https://www.goodreads.com/book/show/179133.Domain_Driven_Design) came out.
@@ -26,6 +25,8 @@ What do you do when you have a completely theoretical question about the board g
 Felienne is a really enthusiastic speaker, explaining complex and theoretical concepts in an intuitive way. For me, it was throwback Thursday to my AI days at university, reminding me that what I learned there is still powerful knowledge. Being able to solve problems in the right domain can be a tremendous timesaver. I've heard this used at work, where a team had translated a specific business domain to the more abstract but well-known accounting domain, solve the problem there and translate back to the more specific domain. Something for Cegeka to present at the next DDD conference?
 
 # The Precision Blade (Alberto Brandolini)
+<iframe width="492" height="277" src="https://www.youtube.com/embed/lG46Yo_9DPc" frameborder="0" allowfullscreen></iframe>
+
 Alberto was talking about his experience with Event Storming, and the many advantages this technique offers beyond the obvious one, gathering of domain events. He is a pretty energetic speaker, gluing simple observations, obvious jokes, subtle jokes and deep insights all together in a waterfall (a whirlpool?) of words. Really fun to watch.
 
 The one thing that struck me was Alberto's explanation for _why_ event storming works. The idea is that you get everything out of your head and into the visible shared space. Everything. It will be messy and unstructured and unsightly but it is necessary to do this before you can even hope to find the right problem to solve. Or, in a typical Brandolini way of speech: "you can't achieve simplicity without diving into chaos, just like putting all your clothes on the floor to sort them out."
@@ -36,6 +37,8 @@ Yves' talk was on his experience creating software to automate hospital appointm
 All of this is interesting, but for me it was hard to draw lessons from the talk. The main point Yves made was that models will evolve over time, as the needs of your users become clearer, but this is definitely not news. I'm not sure what else to take from this.
 
 # Cognitive Cynefin: How Language and Bias Keep Us Complicated (Liz Keogh)
+<iframe width="492" height="277" src="https://www.youtube.com/embed/73uwRe7ctVg" frameborder="0" allowfullscreen></iframe>
+
 So far, the conference left me with a good feeling, but I still hadn't heard anything groundbreaking, anything that gave me a really new perspective. With the last talk of Thursday, that was about to change.
 
 Liz starts out by talking about the metaphors we use to describe our work. We pick up work, we fit it in a sprint, we close it, we timebox. We talk about work as if it's physical. As if our work is a bunch of containers we open, close and move around. This metaphor keeps us from seeing the true diversity and implications our work has. It's not a bunch of tasks we move around in lanes. It's solving real problems for real people.
@@ -56,6 +59,8 @@ One slide hit close to home: "The worst domain expert is the one whose expertise
 This casts the idea of an _analyst-proxy-as-stand-in-for-domain-expert_, used pretty often at Cegeka, in a dark shadow. These proxies are invaluable in our process, but _they are not the domain experts_. Cyrille confirms this after a question at the end of his talk: if you are in a strict analyst-gives-stories-to-developer process where the developers can't talk to domain experts, you are stuck doing something that is _not DDD_.
 
 # Software Design and the Physics of Software (Carlo Pescio)
+<iframe width="492" height="277" src="https://www.youtube.com/embed/WPgYju3KnIY" frameborder="0" allowfullscreen></iframe>
+
 We often talk about our code as if it has certain properties. It is elegant, or rigid, or viscous. However, these properties always carry value connotations. Elegant code is good code. Viscous code is bad code. This is in stark contrast with actual physical properties in actual physical materials. Viscosity in physics isn't inherently good or bad. It's bad for the fly stuck in the honey, it's good for your engine coated in motor oil that doesn't instantly leak out. Studying these properties without any value connotation allows us to select the right material for the problem, which gave way to whole engineering disciplines.
 
 As an example, Carlo explained how he tried to define _friction_ in the context of code, as a measure of how resistant code is to movement. The exact formulas aren't very interesting, but the main point is: the end result is just a numerical property. Sometimes you want it to be low (akin to minimize coupling), but sometimes you want it to be high. For example, you might want your code to resist movement to architectural layers where it doesn't belong.
@@ -67,6 +72,8 @@ You can find more at [physicsofsoftware.com](http://www.physicsofsoftware.com/)
 Bonus for this talk! At the end, Carlo was a bit disappointed no-one asked the question about "what all of this has to do with DDD", as this question had been asked many times before at other talks and he had prepared his answer. So he told us anyway, by way of an example he saw the previous day at the modeling with strangers. There was talk of a certain piece of data probably not being in the right bounded context, because "these two concepts change at different speeds", which he recast as another example of his theory about entanglement in software design. Carlo explained it as "this guy" making the 'different speeds' observation, with a whole "seemed like a really smart guy, I want him on my team." Little tingling sensation all over my body as he points towards me and I recall the start of the previous day...
 
 # oDDs and enDs (Vaughn Vernon)
+<iframe width="492" height="277" src="https://www.youtube.com/embed/4UZZjyQDgT8" frameborder="0" allowfullscreen></iframe>
+
 At the start of the day we were literally saying to each other how we had never heard of "oDD" or "enD" and how we couldn't follow all these new DDD trends. It still took us 5 minutes of the talk to understand that the title was just wordplay on "odds & ends" and "DDD". I think I missed a few of Vaughn's key points because I couldn't stop laughing after that realization.
 
 Vaughn listed a lot of things that go wrong in our industry currently, before countering each with an antidote, some recent, some well-known. Big ball of mud? Bounded contexts! Developers as code monkeys? Show passion, and teach others! Huge joins? CQRS! The broader idea is that we need to be aware of these problems and work to their solutions, if we want to elevate the developers' situation from mere cost center to a productive partnership with the domain people.
@@ -74,6 +81,8 @@ Vaughn listed a lot of things that go wrong in our industry currently, before co
 At the end of the talk, Vaughn did a "one more thing" to announce a new book that's coming out soon: Domain Driven Design Destilled, a rather short explanation (about 250 pages) of what DDD is all about. It should be useful to get team members up to speed quickly, or to present to your management about why DDD is a good idea. There was some skepticism from the people around me, describing Vaughn as mostly a good salesman. I'll await the book, if it fulfills its promises, it's going to be a very welcome book to me.
 
 # Enjoy Yourself Because You Can't Change Anything Anyway: Immutable Data in the Real World (Kelsey Gilmore-Innis)
+<iframe width="492" height="277" src="https://www.youtube.com/embed/HhP4dHzjiFo" frameborder="0" allowfullscreen></iframe>
+
 Immutability is a good thing. Do more immutable objects. Kelsey talks about theory, history and practice of immutability in a quickfire and entertaining way.
 
 Immutable objects are simpler because there's only one set of invariants and you can check them off at construction time. This helps with reasoning, debugging and performance. Further performance gains are possible because of memoization - caching the result of an operation, which is only possible with immutable results. Immutable values tend to compose better. Immutable values encapsulate a state at a fixed point in time, whereas a mutable object weaves state together with the time, in the 'complecting' sense that Rich Hickey explains in his talk [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy).
@@ -85,6 +94,8 @@ Furthermore, immutability is at the core of functional programming. It's not coi
 Kelsey of course explains this way better than me. Still, the insights above are things I knew but were made a lot clearer to me. So for me this was a really fun talk to watch, and I got a lot of notes out of it to explain why I like immutability. Unfortunately, a few of my colleagues got lost in the superfast explanations with pretty unrelated slides. I'll convince them yet.
 
 # Symmetry in Design (Jim Coplien)
+<iframe width="492" height="277" src="https://www.youtube.com/embed/FAZ4GjPKmVI" frameborder="0" allowfullscreen></iframe>
+
 To fully appreciate this talk, you have to understand that the atmosphere at the conference up until now was pretty positive. Everyone was explaining what we needed to do, gave tips about DDD, was discussing their problems and insights. The general feeling is one of _"if the business wants it, we can DDD it. We just have to DDD hard enough"_.
 
 I would like to draw the parallel to the fin-de-siècle feelings in physics. Around the year 1900, all of classical physics as we know it today (fields like mechanics, optics, thermodynamics) was discovered and was producing astounding good results. The general feeling was that we understood the main laws and only needed to clear up some little problems, maybe get some better methods for the harder problems like fluid dynamics.
@@ -102,6 +113,8 @@ It was quite the rant, if you want to see it that way. But it seems the DDD comm
 You had to be there.
 
 # A Decade of DDD, CQRS, Event Sourcing (Greg Young)
+<iframe width="492" height="277" src="https://www.youtube.com/embed/LDW0QWie21s" frameborder="0" allowfullscreen></iframe>
+
 Greg talks about the good, the bad and the future of 10 years of event sourcing.
 
 I don't have any event sourcing experience (sadface), so I hadn't encountered many of the things Greg talks about. When he explains his points, it all seems reasonable, but I can't really give any more insightful comments on this talk.

@@ -8,6 +8,9 @@ The year 2016 started off great by having a [superb Domain Driven Design confere
 I'll add videos when they appear online. While there are no videos in here, this will be one gigantic wall of text. Good luck.
 
 # Opening keynote (Eric Evans)
+
+<iframe width="492" height="277" src="https://www.youtube.com/embed/dnUFEg68ESM" frameborder="0" allowfullscreen></iframe>
+
 Eric Evans gave us a view about his current thoughts on DDD, 12 years after [The Book](https://www.goodreads.com/book/show/179133.Domain_Driven_Design) came out.
 
 While the technology has progressed a lot since then, the book and techniques are still relevant today. Even more so! The tools are so much better than 2003. This allows developers to spend relatively less time on fighting with heavyweight J2EE or ORM frameworks, and relatively more time on domain modeling.

@@ -20,6 +20,8 @@ I wanted to go to the talk by Paul Rayner, but the room was packed full, no way 
 The whole self organized part of the conference (unconference / modeling with strangers) was just getting started, and I didn't have the time to return there later. But speaking from my SoCraTes experience, magic happens when you allow the community to connect, so I don't doubt the experience was more fulfilling for others that spent more time there.
 
 # A board game night with geeks (Felienne Hermans)
+<iframe width="492" height="277" src="https://www.youtube.com/embed/YjtlkQgchnw" frameborder="0" allowfullscreen></iframe>
+
 What do you do when you have a completely theoretical question about the board game you're playing? You translate the question to a SAT problem, whip up enough code to rewrite that problem in conjunctive normal form, throw it at a SAT solver and manually interpret the output to see how it looks on the board. All in a few hours time. You wouldn't do this? Well, then you're not as [awesome as Felienne](https://github.com/Felienne/Quarto).
 
 Felienne is a really enthusiastic speaker, explaining complex and theoretical concepts in an intuitive way. For me, it was throwback Thursday to my AI days at university, reminding me that what I learned there is still powerful knowledge. Being able to solve problems in the right domain can be a tremendous timesaver. I've heard this used at work, where a team had translated a specific business domain to the more abstract but well-known accounting domain, solve the problem there and translate back to the more specific domain. Something for Cegeka to present at the next DDD conference?
@@ -32,6 +34,8 @@ Alberto was talking about his experience with Event Storming, and the many advan
 The one thing that struck me was Alberto's explanation for _why_ event storming works. The idea is that you get everything out of your head and into the visible shared space. Everything. It will be messy and unstructured and unsightly but it is necessary to do this before you can even hope to find the right problem to solve. Or, in a typical Brandolini way of speech: "you can't achieve simplicity without diving into chaos, just like putting all your clothes on the floor to sort them out."
 
 # Amongst Models (Yves Reynhout)
+<iframe width="492" height="277" src="https://www.youtube.com/embed/4TWGRewQdyI" frameborder="0" allowfullscreen></iframe>
+
 Yves' talk was on his experience creating software to automate hospital appointment registration. It seems like a deceptively simple problem to solve. Why not just give them Google Calendar? Well, there are many good reasons, and Yves explains many of the needs and the corresponding changes in the model.
 
 All of this is interesting, but for me it was hard to draw lessons from the talk. The main point Yves made was that models will evolve over time, as the needs of your users become clearer, but this is definitely not news. I'm not sure what else to take from this.
@@ -50,6 +54,8 @@ I (and countless others) have seen a project derail by slicing it into stories b
 Eye-opening! I'm planning to learn more about Cynefin and spread the word in our company. Apparently our agile coaching division already uses the framework, which shows both that our coaches are awesome and that we need to work on internal trainings for these things. So much to learn from each other!
 
 # Heuristics from the trenches (Cyrille Martraire)
+<iframe width="492" height="277" src="https://www.youtube.com/embed/XYw5Mn5yVMM" frameborder="0" allowfullscreen></iframe>
+
 "Talk to your domain expert", say the books. But how do I do that? Who do I talk to? What do I say?
 
 Over the course of one hour, Cyrille delivers an insane amount of practical advise on do's and don't when trying to extract domain knowledge from your domain expert. Be genuinely curious. Don't just ask for features. Read the important books of your domain. Take notes of your talks.

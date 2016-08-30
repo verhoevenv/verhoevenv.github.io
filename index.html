@@ -21,7 +21,7 @@
 </div>
 {% endfor %}
 <hr>
-{% if site.posts > site.data.theme.num_home_posts %}
+{% if site.posts.size > site.data.theme.num_home_posts %}
 <div class="home-read-more">
   <a href="{{ "/archive" | prepend:site.baseurl }}" class="btn btn-primary btn-block btn-lg">View All {{ site.posts | size }} Articles →</a>
 </div>

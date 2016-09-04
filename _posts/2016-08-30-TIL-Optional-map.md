@@ -45,7 +45,25 @@ It makes total sense for Java. The class invariant is that an `Optional` can nev
 
 In stricter functional programming languages (aka Scala), this doesn't happen. A Scala `Option` is perfectly capable of holding `null`, and map will put it in there without raising an eyebrow. I think this happens because monadic composition[^1] is a better tool to handle the situation and `null` is less of an issue in Scala code anyway, because its use is highly discouraged.
 
-You can find [a test highlighting this difference](https://github.com/verhoevenv/java8-optional/blob/master/src/test/scala/com/github/verhoevenv/java8/optional/EssentialOptionalDifferenceSpec.scala) in the codebase for this article.
+The following is a test highlighting this difference which you can also find [in the codebase for this article](https://github.com/verhoevenv/java8-optional/blob/master/src/test/scala/com/github/verhoevenv/java8/optional/EssentialOptionalDifferenceSpec.scala). `s2j` is a conversion function between Scala's and Java's function-type.
+{% highlight scala %}
+"A java Optional" should "map null to Optional.empty" in {
+  val javaOptional = Optional.of("a value")
+
+  val result = javaOptional.map(s2j(_ => null))
+
+  result.isPresent shouldBe false
+}
+
+"A scala Option" should "map null to Some(null)" in {
+  val scalaOptional = Option("a value")
+
+  val result = scalaOptional.map(_ => null)
+
+  result.isDefined shouldBe true
+  result shouldBe Some(null)
+}
+{% endhighlight %}
 
 I think this is a great example of pragmatism from Java's development team. We won't be having monads or equivalent things in Java in the foreseeable future, so let's just make life easier for everyone.
 

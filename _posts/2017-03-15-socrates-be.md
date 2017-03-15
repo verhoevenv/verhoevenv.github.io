@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes from SoCraTes Belgium 2016"
 tags: socrates craftsmanship testing community conference notes
-teaser-pic: /assets/socrates/socrates_be_logo.jpg
+teaser-pic: /assets/2017-03-15-socrates/socrates_be_logo.jpg
 excerpt: >
     <p>For the second year now, the Software Craftsmanship and Testing community in Belgium organized a SoCraTes Open Space. The what in where whatnow? Allow me to present you with some context...</p>
     <p>The <strong>Software Craftsmanship and Testing community</strong> is a group of people who have found value in software craftsmanship, as laid out in a manifesto, a couple of books and a whole load of blog posts and other forms of knowledge. Because a <em>community of professionals</em> is important to a craftsperson, we seek each other out and learn from each other. In Belgium, this community is organized by the Meetup group, which is open for everyone to join or organize events, as long as they're reasonably tech-agnostic. There are more specific Meetup groups available for technologies and programming languages.</p>

@@ -3,6 +3,8 @@ layout: post
 title:  "Lessons from SoCraTes Germany 2017"
 tags: socrates craftsmanship testing community conference notes
 teaser-pic: /assets/2017-08-28-socrates-de/socrates2017_logo.png
+excerpt: >
+    <p>Germany is where the first <a href="https://www.socrates-conference.de/">SoCraTes unconference</a> took place, back in 2011. It is, to my knowledge, the SoCraTes conference with the most attendees, which naturally correlates with the broadest knowledge and amount of sessions. As an aspiring software crafter I couldn’t resist wanting to participate in 2017’s conference. Some of the things I learned or contributed to can be found below. Notes and topics are ordered roughly by importance for myself as judged arbitrarily by myself. They are not in order of the time at which the sessions occurred.</p>
 ---
 ![socrates_2017_logo]{:.teaser-pic}
 

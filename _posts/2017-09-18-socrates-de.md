@@ -15,7 +15,7 @@ Firstly, notice how I said aspiring software _crafter_, not craftsman, in the pr
 
 One of the issues that was discussed is the inherently gendered word crafts*man*ship. [Changing craftsmanship to craft is a logical step I'm supporting](https://twitter.com/Singsalad/status/896640390241103872). It'll be a hard one to change, though, as the craftsmanship word is ingrained deeply by now. Please correct me when I make mistakes.
 
-Thanks everyone for having this discussion, but especially thank you Franzi for the role you are playing in it.
+Thanks everyone for having this discussion, but especially thank you [Franzi](https://twitter.com/Singsalad) for the role you are playing in it.
 
 # Property based testing
 It has long been my view that property based testing is a good complement to unit testing. Unit testing is great to guide you to a solution which adheres to a few examples. Property based testing is great at keeping you away from the vast space of solutions that are almost but not exactly doing what you want. I've picked up a few new tricks in [Jan Stępień](https://twitter.com/janstepien)'s session.

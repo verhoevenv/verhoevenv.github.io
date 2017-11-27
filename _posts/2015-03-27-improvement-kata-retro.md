@@ -90,7 +90,7 @@ I don't know yet. The post-its of the vision are displayed proudly in our war ro
 
 Personally, I fully support the vision we created, and I'll often refer to it when we are considering different directions in the future.
 
-#Credit where credit is due
+# Credit where credit is due
 This retro was inspired by [a talk](http://www.slideshare.net/noostvog/improv-kata-retrospectives) from [Nick Oostvogels](http://www.twitter.com/nickoostvogels) I attended during the Agile Tour Brussels conference. He also has [a blog post on the theme](http://skycoach.be/2012/10/29/vision-based-retrospectives-avoiding-conflicting-improvements/). Thanks for the inspiration, Nick!
 
 [retro_fatigue]: /assets/2015-03-27-improvement-kata-retro/retro_fatigue.png
